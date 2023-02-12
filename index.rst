@@ -1,4 +1,8 @@
-# Test
-
-.. _file1:
-#Strona główna
+nav:
+    - Home: 'index.md'
+    - 'User Guide':
+        - 'Writing your docs': 'writing-your-docs.md'
+        - 'Styling your docs': 'styling-your-docs.md'
+    - About:
+        - 'License': 'license.md'
+        - 'Release Notes': 'release-notes.md'
