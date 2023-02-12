@@ -1,2 +1,2 @@
-[Strona Glowna]((/docs/StronaGlowna.html) 
+[Strona Glowna](/docs/StronaGlowna.html) 
 ======================
