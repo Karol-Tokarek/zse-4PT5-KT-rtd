@@ -1,6 +1,7 @@
-Witaj !
+Witaj w index.rst (html) !
 ===========
-Hello World
+
+Wybierz z menu obok odpowiednią zakładkę.
 
 .. toctree::
   :maxdepth: 2
