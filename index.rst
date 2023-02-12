@@ -1,2 +1,2 @@
-Read the Docs tutorial
+[Strona Glowna]((/docs/StronaGlowna.html) 
 ======================
