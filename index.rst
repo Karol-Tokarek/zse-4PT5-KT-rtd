@@ -5,7 +5,7 @@ Hello World
 .. toctree::
   :maxdepth: 2
   :hidden:
-  :caption: Contents:
+  :caption: Strony dokumentacji:
   
   /StronaGlowna
   /SpisTresci
