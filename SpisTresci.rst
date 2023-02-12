@@ -1,6 +1,6 @@
 SPIS TRESCI
 =================
 
-* `Strona główna <StronaGlowna>`_.
-* `Spis treści <SpisTresci>`_.
-* `index.html <index>`_.
+* `Strona główna <StronaGlowna.html>`_.
+* `Spis treści <SpisTresci.html>`_.
+* `index.html <index.html>`_.
