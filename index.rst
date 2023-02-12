@@ -7,6 +7,6 @@ Hello World
   :hidden:
   :caption: Contents:
   
-  docs/StronaGlowna
-  docs/SpisTresci
+  StronaGlowna
+  SpisTresci
   
